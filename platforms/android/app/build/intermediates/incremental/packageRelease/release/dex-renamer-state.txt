@@ -1,0 +1,4 @@
+#Thu Mar 01 17:33:09 CST 2018
+base.0=F\:\\_cjh\\MyIonicProject\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=F\:\\_cjh\\MyIonicProject\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
